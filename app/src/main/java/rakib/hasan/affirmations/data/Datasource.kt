@@ -1,7 +1,7 @@
-package rakib.hasan.affirmations.model
+package rakib.hasan.affirmations.data
 
 import com.example.affirmations.R
-import rakib.hasan.affirmations.data.Affirmation
+import rakib.hasan.affirmations.model.Affirmation
 
 class Datasource() {
     fun loadAffirmations(): List<Affirmation> = listOf(

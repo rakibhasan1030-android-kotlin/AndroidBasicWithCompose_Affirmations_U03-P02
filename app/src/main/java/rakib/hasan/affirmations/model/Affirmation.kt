@@ -1,4 +1,4 @@
-package rakib.hasan.affirmations.data
+package rakib.hasan.affirmations.model
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes

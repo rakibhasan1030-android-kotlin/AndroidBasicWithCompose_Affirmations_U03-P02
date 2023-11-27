@@ -24,8 +24,8 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.affirmations.R
-import rakib.hasan.affirmations.data.Affirmation
-import rakib.hasan.affirmations.model.Datasource
+import rakib.hasan.affirmations.model.Affirmation
+import rakib.hasan.affirmations.data.Datasource
 import rakib.hasan.affirmations.ui.theme.AffirmationsTheme
 
 class MainActivity : ComponentActivity() {
